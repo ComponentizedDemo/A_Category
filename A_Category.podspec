@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'A_Category'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of A_Category.'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
